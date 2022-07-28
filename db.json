@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "fan",
+      "category": "Mobile",
+      "date": "2022-07-20T18:30:00.000Z",
+      "price": 53,
+      "comment": "xvc",
+      "freshness": "Brand New",
+      "id": 1
+    },
+    {
+      "productName": "redmi",
+      "category": "Mobile",
+      "date": "2022-07-19T18:30:00.000Z",
+      "price": 1200,
+      "comment": "nice",
+      "freshness": "Second Hand",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

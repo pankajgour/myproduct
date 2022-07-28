@@ -1,0 +1,44 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  table {
+    width: 100%;
+  }
+  
+  .mat-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+  
+   th {
+    width: 15%;
+    color: black;
+    font-size:small;
+  }
+  .container{
+    max-width: 90%;
+   margin: 0 auto;
+  }
+  .mat-button{
+    color: black;
+    background-color: white;
+ }
+ .mat-toolbar{
+ 
+  background-color:  #03c2fc;
+ }
+ .footer{
+  // background-color:  #03c2fc;
+  // width: 100%;
+  // height: 5%;
+  // margin-top: 8.2%;
+
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #03c2fc;
+  color: black;
+  text-align: center;
+  height: 5%;
+ }
