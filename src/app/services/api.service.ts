@@ -5,7 +5,7 @@ import { Injectable } from '@angular/core';
   providedIn: 'root'
 })
 export class ApiService {
-  BaseUrl ='http://localhost:3000/productList/';
+  BaseUrl ='https://my-json-server.typicode.com/pankajgour/myproduct/productList/';
   constructor(private httpClient :HttpClient) {
    }
 
